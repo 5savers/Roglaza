@@ -1,0 +1,43 @@
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\bin\Debug\Roglaza.exe
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\bin\Debug\Roglaza.pdb
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\obj\Debug\Roglaza.csprojResolveAssemblyReference.cache
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\obj\Debug\Roglaza.FrmGate.resources
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\obj\Debug\Roglaza.Properties.Resources.resources
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\obj\Debug\Roglaza.csproj.GenerateResource.Cache
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\obj\Debug\Roglaza.exe
+c:\users\local-lap\documents\visual studio 2012\Projects\Roglaza\Roglaza\obj\Debug\Roglaza.pdb
+D:\Roglaza\Roglaza\obj\Debug\Roglaza.exe
+D:\Roglaza\Roglaza\obj\Debug\Roglaza.pdb
+D:\Roglaza\Roglaza\bin\Debug\Roglaza.exe
+D:\Roglaza\Roglaza\bin\Debug\Roglaza.pdb
+D:\Roglaza\Roglaza\obj\Debug\Roglaza.csprojResolveAssemblyReference.cache
+D:\Roglaza\Roglaza\obj\Debug\Roglaza.FrmGate.resources
+D:\Roglaza\Roglaza\obj\Debug\Roglaza.Properties.Resources.resources
+D:\Roglaza\Roglaza\obj\Debug\Roglaza.csproj.GenerateResource.Cache
+D:\Roglaza\Roglaza\obj\Debug\Roglaza.Forms.FrmAdminPanel.resources
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.exe
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.pdb
+E:\Roglaza\Roglaza\bin\Debug\Roglaza.exe
+E:\Roglaza\Roglaza\bin\Debug\Roglaza.pdb
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.Forms.FrmAdminPanel.resources
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.FrmGate.resources
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.Properties.Resources.resources
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.csproj.GenerateResource.Cache
+E:\Roglaza\Roglaza\bin\Debug\System.Data.SQLite.dll
+E:\Roglaza\Roglaza\bin\Debug\System.Data.SQLite.xml
+E:\Roglaza\Roglaza\bin\Debug\Roglaza.exe.config
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.Forms.ImagePreviewer.resources
+E:\Roglaza\Roglaza\obj\Debug\Roglaza.csprojResolveAssemblyReference.cache
+E:\roglaza-master\roglaza-master\Roglaza\bin\Debug\Roglaza.exe.config
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.exe
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.pdb
+E:\roglaza-master\roglaza-master\Roglaza\bin\Debug\Roglaza.exe
+E:\roglaza-master\roglaza-master\Roglaza\bin\Debug\Roglaza.pdb
+E:\roglaza-master\roglaza-master\Roglaza\bin\Debug\System.Data.SQLite.dll
+E:\roglaza-master\roglaza-master\Roglaza\bin\Debug\System.Data.SQLite.xml
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.csprojResolveAssemblyReference.cache
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.Forms.FrmAdminPanel.resources
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.FrmGate.resources
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.Forms.ImagePreviewer.resources
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.Properties.Resources.resources
+E:\roglaza-master\roglaza-master\Roglaza\obj\Debug\Roglaza.csproj.GenerateResource.Cache
