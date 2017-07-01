@@ -32,8 +32,7 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 
 <h3>Used Tecknologies </h3>
 
-- C#.Net
-- .Net Framework 4.5
+- C#.Net with .Net Framework 4.5
 - [Sqlite](http://system.data.sqlite.org/downloads/1.0.105.1/sqlite-netFx-source-1.0.105.1.zip)
 - KeyStealer 
 - [Tinny Wrapper](http://system.data.sqlite.org/downloads/1.0.105.1/sqlite-netFx-source-1.0.105.1.zip) 
@@ -52,7 +51,7 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 
 
 <h3>Requirements</h3>
-- .Net framework 4.5
+- Windows OS with .Net framework 4.5
 <a href='http://www.microsoft.com/en-eg/download/details.aspx?id=30653' >Download</a>
 
 
@@ -66,13 +65,18 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 - [Files history by goblins](https://www.codeproject.com/Articles/7500/The-Tiny-Wrapper-Class-for-URL-History-Interface-i) 
 
 <h3> How it works </h3>
-The application relay on some timers which starts with the program  , each timer is responsible for certain function.
+The application relay on some timers which starts with the program  , each timer is responsible for certain function.Every Certain interval an action is triggered to record cam , Screenshot , spy on browsers , Store keystrokes .
 
 
 <h3> Limits </h3>
 
 - Works with Windows OS only
 - Keylogger detecet Engish only (will be fixed on future version)
+- File History Limit to 100 File
+- Browser History Limit to 100 Url
+- Requires Windows 7 and above
+- Requires .Net Framework 4.5
+- Remotely access not enabled.
 
 
 <h3> ScreenShots</h3>
