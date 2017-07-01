@@ -65,7 +65,7 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 - [Files history by goblins](https://www.codeproject.com/Articles/7500/The-Tiny-Wrapper-Class-for-URL-History-Interface-i) 
 
 <h3> How it works </h3>
-The application relay on some timers which starts with the program  , each timer is responsible for certain function.Every Certain interval an action is triggered to record cam , Screenshot , spy on browsers , Store keystrokes .
+The application relays on some timers which starts with the program  , each timer is responsible for certain function.Every Certain interval an action is triggered to record cam , Screenshot , spy on browsers , Store keystrokes .
 
 
 <h3> Limits </h3>
@@ -77,7 +77,13 @@ The application relay on some timers which starts with the program  , each timer
 - Requires Windows 7 and above
 - Requires .Net Framework 4.5
 - Remotely access not enabled.
+- Medium Performance
 
+
+#Security
+- The Application is not Compleley secured against physicall access to your computer.
+- Admin interface is protected with password in MD5.
+- Stored Logs are not encrypted.
 
 <h3> ScreenShots</h3>
 
