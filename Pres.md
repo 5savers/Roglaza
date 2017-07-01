@@ -1,25 +1,4 @@
-Windows application to keep children save
 
-
-<a href='http://www.mediafire.com/file/mlohbia9d34elk3/Roglaza_1.3.zip' > Download From mediafire </a>
-
-<img src='https://raw.githubusercontent.com/5savers/Roglaza/master/roglaza.png' />
-
-
-Icon <img src='http://i.imgur.com/KVPHpKB.png' />
-<img src='https://image.flaticon.com/icons/png/128/48/48857.png' />
-
-<h3>Environment</h3>
-Windows Application wrttein in c#.Net supports x86 Operation systems.
-<h3> Why To use</h3>
-
-- Monitor your kids activitiess on computers 
-- Capturing screens to open applications
-- Capturing faces to determine who was setting on your computer.
-- Loggings key strokes
-- Storing browser history  to monitor internet activitiy.
-- Prevent kids from positive contents.
-- Disallow running certain applications
 
 
 <h3>Intro</h3>
@@ -40,13 +19,9 @@ The challenge was to monitor kid's activity and protect them from positive conte
 <h2>Solution</h2>
 We created Roglaza to achieve the goals , the program is writtine in c# along side with other technologies.
 
-<h3>Used Tecknologies </h3>
 
-- C#.Net with .Net Framework 4.5
-- [Sqlite](http://system.data.sqlite.org/downloads/1.0.105.1/sqlite-netFx-source-1.0.105.1.zip)
-- KeyStealer 
-- [Tinny Wrapper](http://system.data.sqlite.org/downloads/1.0.105.1/sqlite-netFx-source-1.0.105.1.zip) 
-- Aforge
+
+
 
 The application has many features that can help parents to protect their kids as possible .
 
@@ -62,26 +37,41 @@ The application has many features that can help parents to protect their kids as
 - File paths History        (✓)
 
 
+
+
 <h3>Requirements</h3>
 - Windows OS with .Net framework 4.5
 <a href='http://www.microsoft.com/en-eg/download/details.aspx?id=30653' >Download</a>
 
 
-<h3>Credits</h3>
-We used the following third-parties and technologies to achieve Roglaza amazing Features. 
-
-- [Encryption Microsoft .NET](https://msdn.microsoft.com/en-us/library/system.security.cryptography.md5(v=vs.110).aspx)
-- [SQL -> SQLite](http://blog.tigrangasparian.com/2012/02/09/getting-started-with-sqlite-in-c-part-one/)
-- [KeyStealer by High-Tech Low-Life ](https://codeload.github.com/htll/KeyStealer/zip/master)
-- [Camera Capture using aforgenet.com](http://www.aforgenet.com/)
-- [Content matches inspired by Kalpeshk](https://github.com/Kalpeshk9967016292/Antiporn)
-- [Files history by goblins](https://www.codeproject.com/Articles/7500/The-Tiny-Wrapper-Class-for-URL-History-Interface-i) 
-
 <h3> How it works </h3>
 The application relays on some timers which starts with the program  , each timer is responsible for certain function.Every Certain interval an action is triggered to record cam , Screenshot , spy on browsers , Store keystrokes .
 
 
-#The Application was found having some defects while Debugging
+
+
+<h3>Used Tecknologies </h3>
+
+<h4> Planning </h4> 
+We planned to know what kids watching , playing so we decided to record screenshots and store keystrokes to know what they are typing , spy on browser to get their interested websites , Prevent certain applications to save their time.
+We investigated and found the following third-parties can help us to build Roglaza.
+
+We used the following third-parties and technologies to achieve Roglaza amazing Features by implementing in our project. 
+
+
+- C#.Net with .Net Framework 4.5
+- [Sqlite](http://system.data.sqlite.org/downloads/1.0.105.1/sqlite-netFx-source-1.0.105.1.zip)
+- KeyStealer 
+- [Tinny Wrapper](http://system.data.sqlite.org/downloads/1.0.105.1/sqlite-netFx-source-1.0.105.1.zip) 
+- [Camera Capture using aforgenet.com](http://www.aforgenet.com/)
+- [Content matches inspired by Kalpeshk](https://github.com/Kalpeshk9967016292/Antiporn)
+- [Files history by goblins](https://www.codeproject.com/Articles/7500/The-Tiny-Wrapper-Class-for-URL-History-Interface-i) 
+
+
+ 
+
+
+#The Application was found having some defects while <h2>Debugging</h2>
 <h3> Limits </h3>
 
 - The program has low performance if machine has low size of RAM.
@@ -115,42 +105,3 @@ The application relays on some timers which starts with the program  , each time
 - Keylogger will detect any language , we are working to solve right-to-left languages so it will be available for any language.
 - Roglaza Language is english , we are opening it  to all world so they can contribute by translating Roglaza into their home language.
 - It will Support all web browsers.
-
-<h3> ScreenShots</h3>
-
-*Main interface is hidden when app is running , semi-visible in test mode*
-
- 
-1- <img src='http://i.imgur.com/sgWdZtj.jpg' /> <br />
-
-
-2- Access Panel when you press the control button (PRTSC SYSRq) at that time
-<img src="http://i.imgur.com/FwgeNU3.jpg" /> <br /> <br />
-
-
-3- General Settings interface
-<img src='http://i.imgur.com/O7Soqeu.jpg' /> <br /> <br />
-
-
-
-4- Viewing captured images 
-<img src='http://i.imgur.com/yuwa2Nf.jpg' /> <br /> <br />
-
-
-
-5- Viewing Stored key strokes
-<img src='http://i.imgur.com/mW3djil.jpg' /> <br /> <br />
-
-
-6- Content Blocker 
-<img src='http://i.imgur.com/7TsAiYo.jpg' /> <br /> <br />
-
-
-
-7- Appp Manager
-
-<img src='http://i.imgur.com/nbdxAGM.jpg' /> <br /> <br />
- 
- 8- Camera Test  
-<img src='http://i.imgur.com/Aa5n0SS.jpg' /> <br /> <br />
-
