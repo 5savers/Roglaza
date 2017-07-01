@@ -21,7 +21,8 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 - Prevent kids from positive contents.
 - Disallow running certain applications
 
-
+#Intro
+We are a team of 5 , we faced a challenge that happened with a team member's son , and we planned to solve this challenge by creating Roglaza to monitor kids activity.
 <h3>Team</h3>
 
 - Esraa Mahmoud Montasser
@@ -30,6 +31,11 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 - Nourah Mohamed
 - Eman Eid Ali
 
+The challenge was to monitor kid's activity and protect them from positive contents , save their time  and manage it , prevent them away from bad happits by blocking certain activites at certain times.
+
+#Solution
+We created Roglaza to achieve the goals , the program is writtine in c# along side with other technologies.
+
 <h3>Used Tecknologies </h3>
 
 - C#.Net with .Net Framework 4.5
@@ -37,6 +43,9 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 - KeyStealer 
 - [Tinny Wrapper](http://system.data.sqlite.org/downloads/1.0.105.1/sqlite-netFx-source-1.0.105.1.zip) 
 - Aforge
+
+The application has many features that can help parents to protect their kids as possible .
+
 <h3>Features</h3>
 
 - Screen Capturing 			(✓)
@@ -49,14 +58,13 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 - File paths History        (✓)
 
 
-
 <h3>Requirements</h3>
 - Windows OS with .Net framework 4.5
 <a href='http://www.microsoft.com/en-eg/download/details.aspx?id=30653' >Download</a>
 
 
 <h3>Credits</h3>
-
+We used the following third-parties and technologies to achieve Roglaza amazing Features. 
 - [Encryption Microsoft .NET](https://msdn.microsoft.com/en-us/library/system.security.cryptography.md5(v=vs.110).aspx)
 - [SQL -> SQLite](http://blog.tigrangasparian.com/2012/02/09/getting-started-with-sqlite-in-c-part-one/)
 - [KeyStealer by High-Tech Low-Life ](https://codeload.github.com/htll/KeyStealer/zip/master)
@@ -68,6 +76,7 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 The application relays on some timers which starts with the program  , each timer is responsible for certain function.Every Certain interval an action is triggered to record cam , Screenshot , spy on browsers , Store keystrokes .
 
 
+#The Application was found having some defects while Debigging
 <h3> Limits </h3>
 
 - Works with Windows OS only
@@ -78,12 +87,26 @@ The application relays on some timers which starts with the program  , each time
 - Requires .Net Framework 4.5
 - Remotely access not enabled.
 - Medium Performance
+- Roglaza Interface is available on in English.
+
 
 
 #Security
 - The Application is not Compleley secured against physicall access to your computer.
 - Admin interface is protected with password in MD5.
 - Stored Logs are not encrypted.
+
+
+#Future Version
+- Our plan is to enhance Roglaza quality and performance , we are seeking to make the appliation works Cross-Platform so other OS users can run Roglaza in Android , IOs , Windows phone and Mac.
+- At this moment Roglaza performance is not very high , it has some limits and we are working to pass them.
+- Next Version will allow Parents to remotely access Roglaza Logs , Manage Roglaza Remotely , Monitor their kids activity with out having to access the machine physsically .
+- Parents will be able to record sound [New feature]
+- Roglaza will support old version of OSs.
+- Roglaza will encrypt all logs to secure them against intrusion.
+- Keylogger will detect any language , we are working to solve right-to-left languages so it will be available for any language.
+- Roglaza Language is english , we are opening it  to all world so they can contribute by translating Roglaza into their home language.
+
 
 <h3> ScreenShots</h3>
 
