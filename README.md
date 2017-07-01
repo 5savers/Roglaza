@@ -21,7 +21,9 @@ Windows Application wrttein in c#.Net supports x86 Operation systems.
 - Prevent kids from positive contents.
 - Disallow running certain applications
 
-#Intro
+
+<h3>Intro</h3>
+
 We are a team of 5 , we faced a challenge that happened with a team member's son , and we planned to solve this challenge by creating Roglaza to monitor kids activity.
 <h3>Team</h3>
 
@@ -65,6 +67,7 @@ The application has many features that can help parents to protect their kids as
 
 <h3>Credits</h3>
 We used the following third-parties and technologies to achieve Roglaza amazing Features. 
+
 - [Encryption Microsoft .NET](https://msdn.microsoft.com/en-us/library/system.security.cryptography.md5(v=vs.110).aspx)
 - [SQL -> SQLite](http://blog.tigrangasparian.com/2012/02/09/getting-started-with-sqlite-in-c-part-one/)
 - [KeyStealer by High-Tech Low-Life ](https://codeload.github.com/htll/KeyStealer/zip/master)
