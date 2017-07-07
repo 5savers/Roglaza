@@ -81,6 +81,9 @@ We used the following third-parties and technologies to achieve Roglaza amazing 
 The application relays on some timers which starts with the program  , each timer is responsible for certain function.Every Certain interval an action is triggered to record cam , Screenshot , spy on browsers , Store keystrokes .
 
 
+[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://vimeo.com/224615272)
+
+
 #The Application was found having some defects while Debugging
 <h3> Limits </h3>
 
